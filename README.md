@@ -1,4 +1,4 @@
-# ChefStack - Gerenciador de Receitas e Ingredientes
+# RecipeList Manager-C
 
 Este projeto é uma aplicação de linha de comando desenvolvida em **C** para gerenciar um livro de receitas digital. A aplicação utiliza estruturas de dados dinâmicas para permitir o armazenamento eficiente de receitas e seus respectivos ingredientes.
 
