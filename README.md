@@ -6,7 +6,7 @@ Funcionalidades
 
 O sistema oferece um menu interativo com as seguintes operações:
 - Gerenciamento de Receitas: Inserir, remover e visualizar receitas.
-- Gerenciamento de Ingredientes:** Adicionar ingredientes a receitas específicas, remover ou substituir itens.
+- Gerenciamento de Ingredientes: Adicionar ingredientes a receitas específicas, remover ou substituir itens.
 - Busca Avançada: Localizar quais receitas utilizam um determinado ingrediente.
 - Personalização: Marcar ingredientes como "Essenciais" e receitas como "Favoritas".
 - Relatórios: Exibição filtrada de itens favoritos e essenciais.
